@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="mekaVRproj"/>
+</Tracking>
+
+<Assembly name="mekaVRprojs_assembly">
+<Part name="mekaVRproj" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-3.1037e-05 1.74926e-05 0.000506502" rotation="AD: 0.9999385513348181 0.04500691170308995 -0.25821114605730544 199.141">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: d387c49985b695f4a8ecf178ff847606
+timeCreated: 1520053578
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone +e58fb3e381b2e38198e8a39ce58aa9
+    100002: Bone +e5b7a6e381b2e38198e8a39ce58aa9
+    100004: Bone Chain 1
+    100006: Bone Chain 2
+    100008: Bone Chain 3
+    100010: Bone e381bee38286e38192
+    100012: Bone e382b0e383abe383bce38396
+    100014: Bone e382bbe383b3e382bfe383bc
+    100016: Bone e4b88ae58d8ae8baab
+    100018: Bone e4b88ae58d8ae8baab2
+    100020: Bone e4b88ae58fa3
+    100022: Bone e4b88ae6adaf
+    100024: Bone e4b88be58d8ae8baab
+    100026: Bone e4b88be58fa3
+    100028: Bone e4b88be6adaf
+    100030: Bone e585a8e381a6e381aee8a6aa
+    100032: Bone e58fb3e381a4e381bee58588
+    100034: Bone e58fb3e381a4e381bee58588efbca9efbcab
+    100036: Bone e58fb3e381b2e38196
+    100038: Bone e58fb3e381b2e38196D
+    100040: Bone e58fb3e381b2e38198
+    100042: Bone e58fb3e381b2e38198e8a39ce58aa9
+    100044: Bone e58fb3e381bee38286e38192efbc91
+    100046: Bone e58fb3e381bee38286e38192efbc92
+    100048: Bone e58fb3e381bee38286e38192efbc93
+    100050: Bone e58fb3e381bee38286e38192efbc94
+    100052: Bone e58fb3e4b88ae381bee381a4e38192
+    100054: Bone e58fb3e4b88ae381bee381a4e38192efbc91
+    100056: Bone e58fb3e4b88ae381bee381a4e38192efbc92
+    100058: Bone e58fb3e4b88ae381bee381a4e38192efbc93
+    100060: Bone e58fb3e4b88ae58fa3
+    100062: Bone e58fb3e4b88ae58fa3efbc92
+    100064: Bone e58fb3e4b88be381bee381a4e38192
+    100066: Bone e58fb3e4b88be381bee381a4e38192efbc91
+    100068: Bone e58fb3e4b88be381bee381a4e38192efbc92
+    100070: Bone e58fb3e4b88be381bee381a4e38192efbc93
+    100072: Bone e58fb3e4b88be58fa3
+    100074: Bone e58fb3e4b88be58fa3efbc92
+    100076: Bone e58fb3e4b8ade68c87efbc91
+    100078: Bone e58fb3e4b8ade68c87efbc92
+    100080: Bone e58fb3e4b8ade68c87efbc93
+    100082: Bone e58fb3e4babae68c87efbc91
+    100084: Bone e58fb3e4babae68c87efbc92
+    100086: Bone e58fb3e4babae68c87efbc93
+    100088: Bone e58fb3e58fa3
+    100090: Bone e58fb3e58fa3efbc92
+    100092: Bone e58fb3e58fa3efbc93
+    100094: Bone e58fb3e5b08fe68c87efbc91
+    100096: Bone e58fb3e5b08fe68c87efbc92
+    100098: Bone e58fb3e5b08fe68c87efbc93
+    100100: Bone e58fb3e6898be68da9
+    100102: Bone e58fb3e6898be68da91
+    100104: Bone e58fb3e6898be68da92
+    100106: Bone e58fb3e6898be68da93
+    100108: Bone e58fb3e6898be9a696
+    100110: Bone e58fb3e79bae
+    100112: Bone e58fb3e882a9
+    100114: Bone e58fb3e882a9C
+    100116: Bone e58fb3e882a9P
+    100118: Bone e58fb3e88595
+    100120: Bone e58fb3e88595e68da9
+    100122: Bone e58fb3e88595e68da91
+    100124: Bone e58fb3e88595e68da92
+    100126: Bone e58fb3e88595e68da93
+    100128: Bone e58fb3e896ace68c87efbc91
+    100130: Bone e58fb3e896ace68c87efbc92
+    100132: Bone e58fb3e896ace68c87efbc93
+    100134: Bone e58fb3e8a6aae68c87efbc90
+    100136: Bone e58fb3e8a6aae68c87efbc91
+    100138: Bone e58fb3e8a6aae68c87efbc92
+    100140: Bone e58fb3e8b6b3
+    100142: Bone e58fb3e8b6b3D
+    100144: Bone e58fb3e8b6b3e58588EX
+    100146: Bone e58fb3e8b6b3e9a696
+    100148: Bone e58fb3e8b6b3e9a696D
+    100150: Bone e58fb3e8b6b3efbca9efbcab
+    100152: Bone e58fb3e8b6b3IKe8a6aa
+    100154: Bone e58fb3e9a0acefbc91
+    100156: Bone e58fb3e9a0acefbc92
+    100158: Bone e58fb3e9a0acefbc93
+    100160: Bone e58fb3e9a0acefbc94
+    100162: Bone e58fb3e9bcbb
+    100164: Bone e58fb3e9bcbbe5ad94
+    100166: Bone e5b7a6e381a4e381bee58588
+    100168: Bone e5b7a6e381a4e381bee58588efbca9efbcab
+    100170: Bone e5b7a6e381b2e38196
+    100172: Bone e5b7a6e381b2e38196D
+    100174: Bone e5b7a6e381b2e38198
+    100176: Bone e5b7a6e381b2e38198e8a39ce58aa9
+    100178: Bone e5b7a6e381bee38286e38192efbc91
+    100180: Bone e5b7a6e381bee38286e38192efbc92
+    100182: Bone e5b7a6e381bee38286e38192efbc93
+    100184: Bone e5b7a6e381bee38286e38192efbc94
+    100186: Bone e5b7a6e4b88ae381bee381a4e38192
+    100188: Bone e5b7a6e4b88ae381bee381a4e38192efbc91
+    100190: Bone e5b7a6e4b88ae381bee381a4e38192efbc92
+    100192: Bone e5b7a6e4b88ae381bee381a4e38192efbc93
+    100194: Bone e5b7a6e4b88ae58fa3
+    100196: Bone e5b7a6e4b88ae58fa3efbc92
+    100198: Bone e5b7a6e4b88be381bee381a4e38192
+    100200: Bone e5b7a6e4b88be381bee381a4e38192efbc91
+    100202: Bone e5b7a6e4b88be381bee381a4e38192efbc92
+    100204: Bone e5b7a6e4b88be381bee381a4e38192efbc93
+    100206: Bone e5b7a6e4b88be58fa3
+    100208: Bone e5b7a6e4b88be58fa3efbc92
+    100210: Bone e5b7a6e4b8ade68c87efbc91
+    100212: Bone e5b7a6e4b8ade68c87efbc92
+    100214: Bone e5b7a6e4b8ade68c87efbc93
+    100216: Bone e5b7a6e4babae68c87efbc91
+    100218: Bone e5b7a6e4babae68c87efbc92
+    100220: Bone e5b7a6e4babae68c87efbc93
+    100222: Bone e5b7a6e58fa3
+    100224: Bone e5b7a6e58fa3efbc92
+    100226: Bone e5b7a6e58fa3efbc93
+    100228: Bone e5b7a6e5b08fe68c87efbc91
+    100230: Bone e5b7a6e5b08fe68c87efbc92
+    100232: Bone e5b7a6e5b08fe68c87efbc93
+    100234: Bone e5b7a6e6898be68da9
+    100236: Bone e5b7a6e6898be68da91
+    100238: Bone e5b7a6e6898be68da92
+    100240: Bone e5b7a6e6898be68da93
+    100242: Bone e5b7a6e6898be9a696
+    100244: Bone e5b7a6e79bae
+    100246: Bone e5b7a6e882a9
+    100248: Bone e5b7a6e882a9C
+    100250: Bone e5b7a6e882a9P
+    100252: Bone e5b7a6e88595
+    100254: Bone e5b7a6e88595e68da9
+    100256: Bone e5b7a6e88595e68da91
+    100258: Bone e5b7a6e88595e68da92
+    100260: Bone e5b7a6e88595e68da93
+    100262: Bone e5b7a6e896ace68c87efbc91
+    100264: Bone e5b7a6e896ace68c87efbc92
+    100266: Bone e5b7a6e896ace68c87efbc93
+    100268: Bone e5b7a6e8a6aae68c87efbc90
+    100270: Bone e5b7a6e8a6aae68c87efbc91
+    100272: Bone e5b7a6e8a6aae68c87efbc92
+    100274: Bone e5b7a6e8b6b3
+    100276: Bone e5b7a6e8b6b3D
+    100278: Bone e5b7a6e8b6b3e58588EX
+    100280: Bone e5b7a6e8b6b3e9a696
+    100282: Bone e5b7a6e8b6b3e9a696D
+    100284: Bone e5b7a6e8b6b3efbca9efbcab
+    100286: Bone e5b7a6e8b6b3IKe8a6aa
+    100288: Bone e5b7a6e9a0acefbc91
+    100290: Bone e5b7a6e9a0acefbc92
+    100292: Bone e5b7a6e9a0acefbc93
+    100294: Bone e5b7a6e9a0acefbc94
+    100296: Bone e5b7a6e9bcbb
+    100298: Bone e5b7a6e9bcbbe5ad94
+    100300: Bone e6938de4bd9ce4b8ade5bf83
+    100302: Bone e885b0
+    100304: Bone e885b0e382ade383a3e383b3e382bbe383abe58fb3
+    100306: Bone e885b0e382ade383a3e383b3e382bbe383abe5b7a6
+    100308: Bone e8888cefbc91
+    100310: Bone e8888cefbc92
+    100312: Bone e8888cefbc93
+    100314: Bone e9a0ad
+    100316: Bone e9a18e
+    100318: Bone e9a18eefbc92
+    100320: Bone e9a696
+    100322: Bone e9bcbb
+    100324: Bone Eyelid left corner inner 1
+    100326: Bone Eyelid left corner inner 2
+    100328: Bone Eyelid left corner outer
+    100330: Bone Eyelid left lower under 1
+    100332: Bone Eyelid left lower under 2
+    100334: Bone Eyelid left lower under 3
+    100336: Bone Eyelid right corner inner 1
+    100338: Bone Eyelid right corner inner 2
+    100340: Bone Eyelid right corner outer
+    100342: Bone Eyelid right lower under 1
+    100344: Bone Eyelid right lower under 2
+    100346: Bone Eyelid right lower under 3
+    100348: Bone Hair front 1
+    100350: Bone Hair front 2
+    100352: Bone Hair front 3
+    100354: Bone Hair left 1
+    100356: Bone Hair left 2
+    100358: Bone Hair left 3
+    100360: Bone Hair middle 1
+    100362: Bone Hair middle 2
+    100364: Bone Hair middle 3
+    100366: Bone Hair right 1
+    100368: Bone Hair right 2
+    100370: Bone Hair right 3
+    100372: Bone Pistol
+    100374: Bone Slider
+    100376: Bone Trigger
+    100378: D.Va Common
+    100380: //RootNode
+    400000: Bone +e58fb3e381b2e38198e8a39ce58aa9
+    400002: Bone +e5b7a6e381b2e38198e8a39ce58aa9
+    400004: Bone Chain 1
+    400006: Bone Chain 2
+    400008: Bone Chain 3
+    400010: Bone e381bee38286e38192
+    400012: Bone e382b0e383abe383bce38396
+    400014: Bone e382bbe383b3e382bfe383bc
+    400016: Bone e4b88ae58d8ae8baab
+    400018: Bone e4b88ae58d8ae8baab2
+    400020: Bone e4b88ae58fa3
+    400022: Bone e4b88ae6adaf
+    400024: Bone e4b88be58d8ae8baab
+    400026: Bone e4b88be58fa3
+    400028: Bone e4b88be6adaf
+    400030: Bone e585a8e381a6e381aee8a6aa
+    400032: Bone e58fb3e381a4e381bee58588
+    400034: Bone e58fb3e381a4e381bee58588efbca9efbcab
+    400036: Bone e58fb3e381b2e38196
+    400038: Bone e58fb3e381b2e38196D
+    400040: Bone e58fb3e381b2e38198
+    400042: Bone e58fb3e381b2e38198e8a39ce58aa9
+    400044: Bone e58fb3e381bee38286e38192efbc91
+    400046: Bone e58fb3e381bee38286e38192efbc92
+    400048: Bone e58fb3e381bee38286e38192efbc93
+    400050: Bone e58fb3e381bee38286e38192efbc94
+    400052: Bone e58fb3e4b88ae381bee381a4e38192
+    400054: Bone e58fb3e4b88ae381bee381a4e38192efbc91
+    400056: Bone e58fb3e4b88ae381bee381a4e38192efbc92
+    400058: Bone e58fb3e4b88ae381bee381a4e38192efbc93
+    400060: Bone e58fb3e4b88ae58fa3
+    400062: Bone e58fb3e4b88ae58fa3efbc92
+    400064: Bone e58fb3e4b88be381bee381a4e38192
+    400066: Bone e58fb3e4b88be381bee381a4e38192efbc91
+    400068: Bone e58fb3e4b88be381bee381a4e38192efbc92
+    400070: Bone e58fb3e4b88be381bee381a4e38192efbc93
+    400072: Bone e58fb3e4b88be58fa3
+    400074: Bone e58fb3e4b88be58fa3efbc92
+    400076: Bone e58fb3e4b8ade68c87efbc91
+    400078: Bone e58fb3e4b8ade68c87efbc92
+    400080: Bone e58fb3e4b8ade68c87efbc93
+    400082: Bone e58fb3e4babae68c87efbc91
+    400084: Bone e58fb3e4babae68c87efbc92
+    400086: Bone e58fb3e4babae68c87efbc93
+    400088: Bone e58fb3e58fa3
+    400090: Bone e58fb3e58fa3efbc92
+    400092: Bone e58fb3e58fa3efbc93
+    400094: Bone e58fb3e5b08fe68c87efbc91
+    400096: Bone e58fb3e5b08fe68c87efbc92
+    400098: Bone e58fb3e5b08fe68c87efbc93
+    400100: Bone e58fb3e6898be68da9
+    400102: Bone e58fb3e6898be68da91
+    400104: Bone e58fb3e6898be68da92
+    400106: Bone e58fb3e6898be68da93
+    400108: Bone e58fb3e6898be9a696
+    400110: Bone e58fb3e79bae
+    400112: Bone e58fb3e882a9
+    400114: Bone e58fb3e882a9C
+    400116: Bone e58fb3e882a9P
+    400118: Bone e58fb3e88595
+    400120: Bone e58fb3e88595e68da9
+    400122: Bone e58fb3e88595e68da91
+    400124: Bone e58fb3e88595e68da92
+    400126: Bone e58fb3e88595e68da93
+    400128: Bone e58fb3e896ace68c87efbc91
+    400130: Bone e58fb3e896ace68c87efbc92
+    400132: Bone e58fb3e896ace68c87efbc93
+    400134: Bone e58fb3e8a6aae68c87efbc90
+    400136: Bone e58fb3e8a6aae68c87efbc91
+    400138: Bone e58fb3e8a6aae68c87efbc92
+    400140: Bone e58fb3e8b6b3
+    400142: Bone e58fb3e8b6b3D
+    400144: Bone e58fb3e8b6b3e58588EX
+    400146: Bone e58fb3e8b6b3e9a696
+    400148: Bone e58fb3e8b6b3e9a696D
+    400150: Bone e58fb3e8b6b3efbca9efbcab
+    400152: Bone e58fb3e8b6b3IKe8a6aa
+    400154: Bone e58fb3e9a0acefbc91
+    400156: Bone e58fb3e9a0acefbc92
+    400158: Bone e58fb3e9a0acefbc93
+    400160: Bone e58fb3e9a0acefbc94
+    400162: Bone e58fb3e9bcbb
+    400164: Bone e58fb3e9bcbbe5ad94
+    400166: Bone e5b7a6e381a4e381bee58588
+    400168: Bone e5b7a6e381a4e381bee58588efbca9efbcab
+    400170: Bone e5b7a6e381b2e38196
+    400172: Bone e5b7a6e381b2e38196D
+    400174: Bone e5b7a6e381b2e38198
+    400176: Bone e5b7a6e381b2e38198e8a39ce58aa9
+    400178: Bone e5b7a6e381bee38286e38192efbc91
+    400180: Bone e5b7a6e381bee38286e38192efbc92
+    400182: Bone e5b7a6e381bee38286e38192efbc93
+    400184: Bone e5b7a6e381bee38286e38192efbc94
+    400186: Bone e5b7a6e4b88ae381bee381a4e38192
+    400188: Bone e5b7a6e4b88ae381bee381a4e38192efbc91
+    400190: Bone e5b7a6e4b88ae381bee381a4e38192efbc92
+    400192: Bone e5b7a6e4b88ae381bee381a4e38192efbc93
+    400194: Bone e5b7a6e4b88ae58fa3
+    400196: Bone e5b7a6e4b88ae58fa3efbc92
+    400198: Bone e5b7a6e4b88be381bee381a4e38192
+    400200: Bone e5b7a6e4b88be381bee381a4e38192efbc91
+    400202: Bone e5b7a6e4b88be381bee381a4e38192efbc92
+    400204: Bone e5b7a6e4b88be381bee381a4e38192efbc93
+    400206: Bone e5b7a6e4b88be58fa3
+    400208: Bone e5b7a6e4b88be58fa3efbc92
+    400210: Bone e5b7a6e4b8ade68c87efbc91
+    400212: Bone e5b7a6e4b8ade68c87efbc92
+    400214: Bone e5b7a6e4b8ade68c87efbc93
+    400216: Bone e5b7a6e4babae68c87efbc91
+    400218: Bone e5b7a6e4babae68c87efbc92
+    400220: Bone e5b7a6e4babae68c87efbc93
+    400222: Bone e5b7a6e58fa3
+    400224: Bone e5b7a6e58fa3efbc92
+    400226: Bone e5b7a6e58fa3efbc93
+    400228: Bone e5b7a6e5b08fe68c87efbc91
+    400230: Bone e5b7a6e5b08fe68c87efbc92
+    400232: Bone e5b7a6e5b08fe68c87efbc93
+    400234: Bone e5b7a6e6898be68da9
+    400236: Bone e5b7a6e6898be68da91
+    400238: Bone e5b7a6e6898be68da92
+    400240: Bone e5b7a6e6898be68da93
+    400242: Bone e5b7a6e6898be9a696
+    400244: Bone e5b7a6e79bae
+    400246: Bone e5b7a6e882a9
+    400248: Bone e5b7a6e882a9C
+    400250: Bone e5b7a6e882a9P
+    400252: Bone e5b7a6e88595
+    400254: Bone e5b7a6e88595e68da9
+    400256: Bone e5b7a6e88595e68da91
+    400258: Bone e5b7a6e88595e68da92
+    400260: Bone e5b7a6e88595e68da93
+    400262: Bone e5b7a6e896ace68c87efbc91
+    400264: Bone e5b7a6e896ace68c87efbc92
+    400266: Bone e5b7a6e896ace68c87efbc93
+    400268: Bone e5b7a6e8a6aae68c87efbc90
+    400270: Bone e5b7a6e8a6aae68c87efbc91
+    400272: Bone e5b7a6e8a6aae68c87efbc92
+    400274: Bone e5b7a6e8b6b3
+    400276: Bone e5b7a6e8b6b3D
+    400278: Bone e5b7a6e8b6b3e58588EX
+    400280: Bone e5b7a6e8b6b3e9a696
+    400282: Bone e5b7a6e8b6b3e9a696D
+    400284: Bone e5b7a6e8b6b3efbca9efbcab
+    400286: Bone e5b7a6e8b6b3IKe8a6aa
+    400288: Bone e5b7a6e9a0acefbc91
+    400290: Bone e5b7a6e9a0acefbc92
+    400292: Bone e5b7a6e9a0acefbc93
+    400294: Bone e5b7a6e9a0acefbc94
+    400296: Bone e5b7a6e9bcbb
+    400298: Bone e5b7a6e9bcbbe5ad94
+    400300: Bone e6938de4bd9ce4b8ade5bf83
+    400302: Bone e885b0
+    400304: Bone e885b0e382ade383a3e383b3e382bbe383abe58fb3
+    400306: Bone e885b0e382ade383a3e383b3e382bbe383abe5b7a6
+    400308: Bone e8888cefbc91
+    400310: Bone e8888cefbc92
+    400312: Bone e8888cefbc93
+    400314: Bone e9a0ad
+    400316: Bone e9a18e
+    400318: Bone e9a18eefbc92
+    400320: Bone e9a696
+    400322: Bone e9bcbb
+    400324: Bone Eyelid left corner inner 1
+    400326: Bone Eyelid left corner inner 2
+    400328: Bone Eyelid left corner outer
+    400330: Bone Eyelid left lower under 1
+    400332: Bone Eyelid left lower under 2
+    400334: Bone Eyelid left lower under 3
+    400336: Bone Eyelid right corner inner 1
+    400338: Bone Eyelid right corner inner 2
+    400340: Bone Eyelid right corner outer
+    400342: Bone Eyelid right lower under 1
+    400344: Bone Eyelid right lower under 2
+    400346: Bone Eyelid right lower under 3
+    400348: Bone Hair front 1
+    400350: Bone Hair front 2
+    400352: Bone Hair front 3
+    400354: Bone Hair left 1
+    400356: Bone Hair left 2
+    400358: Bone Hair left 3
+    400360: Bone Hair middle 1
+    400362: Bone Hair middle 2
+    400364: Bone Hair middle 3
+    400366: Bone Hair right 1
+    400368: Bone Hair right 2
+    400370: Bone Hair right 3
+    400372: Bone Pistol
+    400374: Bone Slider
+    400376: Bone Trigger
+    400378: D.Va Common
+    400380: //RootNode
+    2100000: Body
+    2100002: Eyes
+    2100004: Hair
+    2100006: Logo
+    2100008: Pistol
+    2100010: Pistol charm
+    2100012: Pistol metal
+    2100014: Pistol plastic
+    2100016: Decals
+    2100018: Lashbrow
+    2100020: Headphone
+    2100022: Light
+    2100024: Body light
+    2100026: Bubbles gum
+    4300000: D.Va Common
+    9500000: //RootNode
+    13700000: D.Va Common
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 1b71382d67b8b144ab022f4e26b531d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body light
+    second: {fileID: 2100000, guid: 4cd2bd29db6e29440a148068924d6b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyes
+    second: {fileID: 2100000, guid: bf9cba58d04009c4fa01ff583eaf2c13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair
+    second: {fileID: 2100000, guid: fd416e7946e534e48a25b6c46d1f454a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headphone
+    second: {fileID: 2100000, guid: 1b71382d67b8b144ab022f4e26b531d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lashbrow
+    second: {fileID: 2100000, guid: fd416e7946e534e48a25b6c46d1f454a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 4cd2bd29db6e29440a148068924d6b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logo
+    second: {fileID: 2100000, guid: e126a0bc950675642a3c7588eef595a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pistol
+    second: {fileID: 2100000, guid: 990915266d55ade4e90e2977ad1ad56d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pistol charm
+    second: {fileID: 2100000, guid: 990915266d55ade4e90e2977ad1ad56d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pistol metal
+    second: {fileID: 2100000, guid: ec3dc19d9ea632a429912b905fa786cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pistol plastic
+    second: {fileID: 2100000, guid: 6da7193943df58245a9325d8e6675fce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Bone e6938de4bd9ce4b8ade5bf83
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

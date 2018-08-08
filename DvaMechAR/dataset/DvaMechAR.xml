@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="DvaMechAR"/>
+</Tracking>
+
+<Assembly name="DvaMechARs_assembly">
+<Part name="DvaMechAR" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.477998 0.500363 3.41903" rotation="AD: 0.994993721775308 -0.30017895350298923 0.3824330107324878 210.815">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>
